@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sreekar2610
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning java,python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me sreekarnyalati2610@gmail.com
