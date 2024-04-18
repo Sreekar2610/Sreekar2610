@@ -6,8 +6,6 @@
 
 - $ I’m currently learning **Artificial intelligence**
 
-- # I’m looking to collaborate on projects **related to Artificial intelligence**
-
 - -> How to reach me **sreekarnyalati2610@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
